@@ -1,2 +1,2 @@
 # sql-project
-my first sql project
+testing my first git changes
