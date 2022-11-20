@@ -1,2 +1,2 @@
 # sql-project
-testing my first git changes
+A SQL project about deforestation demonstrating SQL skills using various queries.
